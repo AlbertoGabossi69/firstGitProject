@@ -1,3 +1,4 @@
+/*added comment from repository1(machine)*/
 #include<stdio.h>
 
 int main(){
